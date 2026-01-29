@@ -15,7 +15,7 @@ Syntax highlighted code block
 
 - The lecture ladies are nice
 - Lawson is close to my dorm
-- There are cute girls in my class
+- I got to make a website
 - The resume tips they gave seemed nice
 
 1. Numbered
