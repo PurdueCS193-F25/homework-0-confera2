@@ -12,8 +12,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Aiden's First Homework
-## Header 2
-### Header 3
 
 - The lecture ladies are nice
 - Lawson is close to my dorm
